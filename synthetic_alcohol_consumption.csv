@@ -1,0 +1,1001 @@
+Age,Gender,Occupation,Income Level,Education Level,Smoking Habit,Social Activity Level,Physical Activity Level,Region,Alcohol Consumption (ml/week)
+56,Female,Professional,Low,Master's,Occasional Smoker,Medium,Low,Urban,116.03
+69,Female,Retired,High,High School,Regular Smoker,Low,Low,Suburban,299.56
+46,Male,Professional,Medium,High School,Occasional Smoker,Low,High,Suburban,138.37
+32,Female,Retired,Low,High School,Non-smoker,Medium,High,Urban,17.44
+60,Female,Student,Medium,Bachelor's,Occasional Smoker,Low,Medium,Suburban,122.29
+25,Female,Student,Low,Bachelor's,Occasional Smoker,Low,Medium,Urban,132.55
+38,Male,Student,High,High School,Non-smoker,Medium,Low,Urban,263.03
+56,Male,Unemployed,High,High School,Non-smoker,Low,Medium,Urban,212.02
+36,Male,Unemployed,Medium,Master's,Occasional Smoker,Medium,Medium,Suburban,149.23
+40,Female,Student,Low,High School,Non-smoker,Low,Low,Rural,130.72
+28,Female,Unemployed,Medium,High School,Regular Smoker,Medium,High,Suburban,157.03
+28,Female,Retired,Low,High School,Non-smoker,High,Low,Suburban,148.67
+41,Male,Professional,Low,Bachelor's,Non-smoker,Medium,Low,Suburban,165.53
+70,Female,Professional,High,High School,Non-smoker,Medium,Medium,Urban,125.82
+53,Male,Professional,Low,Bachelor's,Non-smoker,High,Medium,Rural,286.65
+57,Male,Student,Low,High School,Occasional Smoker,Medium,Medium,Urban,250.45
+41,Male,Unemployed,High,PhD,Regular Smoker,Low,Low,Rural,368.54
+20,Female,Retired,Low,High School,Occasional Smoker,Medium,High,Suburban,33.5
+39,Male,Retired,Low,Bachelor's,Non-smoker,High,Medium,Suburban,293.64
+70,Female,Student,High,High School,Non-smoker,Medium,Medium,Suburban,179.25
+19,Female,Retired,Low,High School,Occasional Smoker,Low,High,Urban,20.32
+41,Male,Retired,Medium,Bachelor's,Regular Smoker,Medium,Medium,Suburban,262.28
+61,Female,Retired,High,High School,Non-smoker,High,Low,Urban,241.48
+47,Male,Retired,High,Master's,Non-smoker,Low,Medium,Suburban,227.06
+55,Male,Unemployed,Medium,Master's,Non-smoker,Medium,Low,Suburban,154.79
+19,Male,Retired,Low,Master's,Regular Smoker,Low,Low,Rural,288.59
+38,Male,Professional,Low,High School,Occasional Smoker,Medium,Medium,Suburban,151.84
+50,Female,Student,High,Bachelor's,Non-smoker,Low,High,Urban,156.6
+29,Male,Unemployed,High,High School,Non-smoker,Medium,Low,Urban,205.1
+39,Female,Retired,Medium,Master's,Regular Smoker,High,Medium,Suburban,327.71
+61,Female,Unemployed,Low,Bachelor's,Non-smoker,Medium,Low,Urban,92.5
+42,Female,Retired,Low,Master's,Non-smoker,Medium,Medium,Urban,108.62
+66,Female,Professional,Low,High School,Non-smoker,Medium,Medium,Rural,89.97
+44,Female,Student,Medium,Bachelor's,Non-smoker,Low,Medium,Suburban,154.64
+59,Male,Retired,Medium,High School,Non-smoker,Medium,Low,Suburban,191.78
+45,Male,Retired,High,Bachelor's,Occasional Smoker,Low,Medium,Urban,214.88
+33,Female,Retired,Medium,High School,Regular Smoker,Medium,High,Suburban,159.76
+32,Female,Retired,Low,Bachelor's,Occasional Smoker,Low,Medium,Urban,87.69
+64,Male,Student,Medium,Bachelor's,Regular Smoker,Medium,Medium,Suburban,373.86
+68,Female,Student,Medium,Bachelor's,Non-smoker,High,High,Urban,213.81
+61,Male,Professional,Medium,High School,Occasional Smoker,High,Low,Rural,315.06
+69,Female,Student,Medium,Bachelor's,Non-smoker,Medium,Medium,Urban,180.78
+20,Male,Retired,High,High School,Occasional Smoker,Low,High,Urban,117.74
+54,Male,Professional,High,High School,Regular Smoker,Medium,Low,Suburban,317.86
+68,Male,Professional,Low,High School,Non-smoker,High,Medium,Suburban,246.03
+24,Female,Professional,Low,High School,Non-smoker,Low,Low,Urban,81.34
+38,Female,Retired,Medium,High School,Non-smoker,High,Medium,Suburban,146.04
+26,Male,Unemployed,Low,Bachelor's,Non-smoker,Medium,Medium,Urban,145.26
+56,Female,Retired,Low,High School,Non-smoker,High,Low,Rural,210.77
+35,Male,Student,Low,High School,Occasional Smoker,High,Medium,Rural,296.07
+21,Female,Student,Medium,Master's,Regular Smoker,High,Low,Urban,332.82
+42,Male,Retired,Low,High School,Non-smoker,Medium,Low,Rural,169.63
+31,Male,Retired,Medium,Bachelor's,Non-smoker,Low,Low,Urban,167.03
+67,Female,Professional,High,Bachelor's,Non-smoker,Medium,High,Urban,145.76
+26,Non-binary,Retired,Low,Master's,Regular Smoker,Medium,Low,Rural,209.77
+43,Female,Professional,Low,Bachelor's,Non-smoker,Low,High,Suburban,34.39
+70,Female,Student,Low,Bachelor's,Non-smoker,Medium,Medium,Urban,143.16
+19,Female,Professional,High,Master's,Non-smoker,Medium,Low,Urban,85.81
+37,Male,Retired,Low,High School,Non-smoker,Medium,Medium,Urban,153.02
+45,Non-binary,Student,Low,Master's,Non-smoker,Medium,Medium,Rural,132.2
+64,Female,Unemployed,Low,High School,Regular Smoker,Low,Medium,Urban,208.04
+24,Female,Professional,Medium,Master's,Non-smoker,High,Low,Urban,180.77
+61,Female,Student,Medium,High School,Occasional Smoker,Low,Low,Urban,166.91
+25,Female,Professional,Medium,Bachelor's,Non-smoker,Medium,Low,Urban,87.27
+64,Female,Student,High,High School,Occasional Smoker,Medium,Low,Urban,178.54
+52,Male,Student,Low,Bachelor's,Occasional Smoker,High,Low,Urban,272.93
+31,Female,Professional,High,High School,Non-smoker,Low,Low,Urban,123.45
+34,Male,Unemployed,Low,Master's,Non-smoker,Medium,Low,Urban,177.44
+53,Non-binary,Student,High,Master's,Non-smoker,Medium,Low,Rural,157.38
+67,Female,Student,Medium,High School,Occasional Smoker,Low,Low,Urban,123.42
+57,Male,Student,High,Master's,Non-smoker,Medium,Low,Suburban,277.21
+21,Female,Unemployed,Low,Bachelor's,Regular Smoker,High,High,Suburban,211.71
+19,Female,Unemployed,Low,Bachelor's,Non-smoker,High,Low,Rural,174.96
+23,Female,Retired,Low,High School,Occasional Smoker,Low,Medium,Rural,69.57
+59,Female,Professional,Low,High School,Occasional Smoker,Low,Low,Urban,124.21
+21,Male,Unemployed,Low,High School,Occasional Smoker,Medium,High,Urban,101.13
+46,Female,Professional,Low,High School,Non-smoker,Medium,Low,Urban,104.69
+35,Female,Retired,Low,Master's,Non-smoker,Low,High,Urban,41.07
+43,Male,Professional,Medium,High School,Occasional Smoker,Low,Medium,Suburban,171.55
+61,Female,Unemployed,High,Master's,Non-smoker,High,Low,Suburban,218.39
+51,Male,Professional,Medium,High School,Non-smoker,High,High,Rural,207.06
+27,Male,Unemployed,Low,Bachelor's,Non-smoker,Low,Medium,Urban,160.26
+53,Female,Professional,Medium,Bachelor's,Non-smoker,Medium,Low,Rural,98.03
+31,Female,Unemployed,Low,Master's,Non-smoker,Medium,Medium,Urban,89.4
+48,Male,Unemployed,High,High School,Non-smoker,Low,High,Urban,148.42
+65,Female,Professional,Low,High School,Non-smoker,Medium,Medium,Urban,144.04
+32,Male,Retired,Medium,High School,Occasional Smoker,Medium,Low,Suburban,177.3
+25,Male,Student,High,High School,Occasional Smoker,High,Medium,Urban,364.83
+31,Male,Retired,High,High School,Occasional Smoker,Medium,Medium,Rural,202.65
+40,Male,Professional,Medium,High School,Regular Smoker,Medium,High,Rural,241.51
+57,Male,Retired,High,High School,Non-smoker,Medium,Medium,Rural,242.28
+38,Female,Unemployed,High,Bachelor's,Non-smoker,Low,Low,Urban,131.38
+33,Female,Student,Medium,High School,Non-smoker,Medium,High,Rural,99.44
+62,Male,Professional,Medium,High School,Non-smoker,Medium,Low,Suburban,183.58
+35,Female,Professional,Medium,High School,Regular Smoker,Low,Low,Urban,177.6
+64,Female,Professional,Medium,Bachelor's,Non-smoker,Low,Medium,Urban,126.07
+70,Male,Student,Medium,Master's,Non-smoker,Low,Medium,Urban,252.51
+41,Female,Unemployed,Medium,Bachelor's,Non-smoker,High,Low,Urban,208.37
+43,Non-binary,Professional,Low,Bachelor's,Non-smoker,Low,Medium,Suburban,111.44
+42,Male,Retired,Low,High School,Occasional Smoker,Low,Low,Rural,181.42
+62,Male,Professional,Low,Bachelor's,Non-smoker,Medium,Medium,Urban,160.74
+58,Female,Professional,Low,High School,Regular Smoker,Medium,High,Suburban,139.04
+46,Female,Professional,Low,High School,Non-smoker,Low,Low,Rural,88.73
+32,Male,Professional,Medium,Bachelor's,Non-smoker,High,Low,Urban,233.36
+62,Female,Unemployed,Low,Master's,Regular Smoker,High,Low,Rural,324.22
+18,Female,Retired,High,High School,Non-smoker,Medium,High,Suburban,71.12
+42,Female,Unemployed,Low,Bachelor's,Regular Smoker,Medium,Low,Suburban,215.83
+24,Female,Retired,Low,Bachelor's,Regular Smoker,Low,Low,Urban,214.67
+26,Female,Professional,Medium,High School,Occasional Smoker,Medium,Medium,Suburban,63.12
+41,Male,Student,Medium,High School,Occasional Smoker,Medium,Medium,Urban,183.58
+18,Male,Unemployed,Low,High School,Non-smoker,Low,Low,Suburban,156.35
+61,Female,Student,High,High School,Regular Smoker,Low,Medium,Urban,317.36
+25,Female,Unemployed,High,High School,Non-smoker,Medium,Low,Rural,102.03
+41,Male,Professional,Low,High School,Occasional Smoker,Low,High,Urban,125.66
+28,Female,Unemployed,Low,High School,Regular Smoker,High,Low,Urban,303.68
+68,Female,Professional,High,Bachelor's,Regular Smoker,Low,Low,Suburban,310.67
+34,Male,Unemployed,Medium,Bachelor's,Occasional Smoker,Medium,Medium,Urban,137.39
+25,Female,Professional,Medium,PhD,Non-smoker,Medium,Low,Suburban,63.73
+52,Female,Professional,High,High School,Regular Smoker,Medium,Medium,Rural,198.81
+52,Female,Retired,Low,Bachelor's,Occasional Smoker,Medium,Low,Suburban,93.06
+50,Female,Professional,Medium,Master's,Regular Smoker,Medium,Low,Urban,212.77
+22,Male,Retired,Low,Bachelor's,Occasional Smoker,High,Medium,Suburban,239.67
+59,Female,Professional,Medium,High School,Non-smoker,Medium,Medium,Suburban,106.24
+56,Male,Student,Medium,Bachelor's,Non-smoker,Medium,Medium,Rural,228.57
+58,Male,Professional,Medium,High School,Non-smoker,Medium,Low,Urban,172.27
+45,Female,Student,Low,High School,Occasional Smoker,Medium,Low,Urban,162.55
+24,Male,Student,Low,Bachelor's,Non-smoker,Medium,Low,Suburban,160.37
+26,Male,Professional,Medium,Bachelor's,Non-smoker,High,Low,Urban,233.51
+25,Female,Student,Medium,High School,Non-smoker,Low,Medium,Urban,149.53
+29,Male,Retired,Medium,Master's,Occasional Smoker,Medium,High,Urban,101.16
+51,Male,Unemployed,Low,Bachelor's,Non-smoker,Medium,Low,Rural,197.87
+50,Female,Professional,High,High School,Non-smoker,Medium,Low,Rural,122.6
+65,Female,Student,Low,Master's,Non-smoker,High,Low,Suburban,278.96
+40,Male,Professional,High,High School,Non-smoker,High,Low,Urban,362.05
+41,Female,Retired,Low,PhD,Non-smoker,Medium,Low,Urban,74.74
+54,Female,Professional,Medium,Bachelor's,Non-smoker,Low,High,Rural,32.77
+52,Female,Professional,Low,High School,Non-smoker,Low,Medium,Rural,82.76
+61,Female,Student,High,Bachelor's,Regular Smoker,Medium,High,Rural,231.02
+57,Non-binary,Retired,Medium,Bachelor's,Regular Smoker,High,High,Suburban,278.85
+39,Female,Unemployed,Low,Bachelor's,Non-smoker,Low,Medium,Urban,88.91
+44,Female,Unemployed,Low,PhD,Regular Smoker,Low,Medium,Rural,205.05
+52,Female,Student,Low,Bachelor's,Non-smoker,Low,Low,Urban,181.42
+18,Male,Professional,Low,Bachelor's,Occasional Smoker,High,Medium,Urban,202.95
+52,Male,Student,High,Master's,Occasional Smoker,Medium,High,Suburban,215.49
+54,Female,Student,Medium,Bachelor's,Non-smoker,Medium,Low,Urban,177.39
+64,Female,Student,Medium,High School,Non-smoker,Medium,High,Urban,132.51
+31,Female,Professional,Medium,Master's,Non-smoker,High,Low,Urban,177.54
+20,Male,Retired,Medium,High School,Non-smoker,Medium,High,Urban,98.57
+18,Female,Student,Low,Bachelor's,Occasional Smoker,Medium,High,Rural,91.82
+22,Male,Professional,Low,Master's,Non-smoker,Low,Medium,Urban,162.81
+43,Male,Retired,Medium,Bachelor's,Non-smoker,Medium,Medium,Urban,180.69
+31,Female,Student,High,Bachelor's,Non-smoker,Medium,Medium,Urban,168.34
+56,Female,Unemployed,Low,Bachelor's,Non-smoker,High,High,Urban,167.57
+44,Female,Retired,Low,High School,Non-smoker,Low,High,Urban,49.8
+26,Female,Student,Medium,Master's,Non-smoker,Low,Medium,Suburban,120.62
+32,Male,Retired,High,High School,Regular Smoker,Low,Medium,Urban,311.41
+32,Female,Retired,Low,High School,Non-smoker,Medium,Medium,Suburban,70.52
+43,Male,Retired,Medium,High School,Non-smoker,High,High,Rural,275.17
+59,Female,Retired,High,Bachelor's,Occasional Smoker,Low,Medium,Suburban,112.15
+30,Female,Retired,Low,Bachelor's,Non-smoker,Medium,High,Urban,13.28
+68,Female,Retired,Low,Master's,Occasional Smoker,Medium,Medium,Urban,85.71
+49,Female,Student,Medium,High School,Occasional Smoker,Low,Low,Rural,169.88
+56,Female,Unemployed,High,High School,Non-smoker,Medium,Low,Suburban,162.39
+66,Female,Professional,Low,High School,Non-smoker,Low,Medium,Rural,135.59
+69,Male,Retired,Medium,High School,Non-smoker,Medium,Low,Rural,175.49
+49,Male,Professional,Medium,Bachelor's,Non-smoker,Medium,Low,Rural,199.23
+21,Male,Student,Medium,High School,Non-smoker,Medium,Medium,Rural,216.21
+47,Male,Retired,Medium,High School,Non-smoker,Low,Low,Suburban,197.01
+54,Female,Unemployed,Medium,High School,Non-smoker,High,Low,Urban,193.38
+40,Female,Professional,Medium,High School,Non-smoker,Medium,Medium,Rural,87.48
+56,Male,Retired,Medium,High School,Occasional Smoker,Medium,High,Suburban,158.22
+62,Male,Student,Medium,High School,Non-smoker,Low,Medium,Urban,218.55
+32,Male,Unemployed,Medium,Bachelor's,Non-smoker,Low,High,Suburban,119.43
+60,Female,Professional,High,Master's,Non-smoker,Low,Medium,Suburban,157.8
+46,Female,Professional,Low,Bachelor's,Regular Smoker,Low,Low,Rural,246.29
+53,Male,Retired,High,PhD,Non-smoker,Medium,Medium,Suburban,223.1
+30,Female,Unemployed,High,High School,Regular Smoker,High,Medium,Urban,348.66
+49,Female,Unemployed,Low,Bachelor's,Non-smoker,Medium,Low,Rural,84.68
+24,Male,Unemployed,Medium,PhD,Occasional Smoker,Low,Low,Rural,113.81
+68,Female,Unemployed,Medium,High School,Non-smoker,Medium,Medium,Suburban,116.6
+39,Female,Student,Low,Master's,Non-smoker,Low,Low,Urban,130.71
+45,Male,Unemployed,Low,High School,Non-smoker,Medium,Medium,Urban,150.34
+19,Male,Professional,Low,High School,Non-smoker,Medium,Low,Suburban,115.07
+59,Male,Professional,Low,High School,Non-smoker,Medium,Medium,Urban,173.06
+62,Male,Student,High,Bachelor's,Non-smoker,High,Medium,Urban,380.88
+70,Female,Professional,Low,Bachelor's,Occasional Smoker,Low,Low,Suburban,154.52
+23,Female,Professional,High,Bachelor's,Regular Smoker,Medium,Low,Urban,249.71
+45,Male,Unemployed,Medium,High School,Non-smoker,High,Medium,Urban,249.08
+45,Male,Professional,High,High School,Non-smoker,Medium,High,Urban,157.4
+61,Male,Student,Medium,High School,Non-smoker,Medium,High,Urban,195.36
+61,Male,Unemployed,Low,High School,Occasional Smoker,High,Medium,Suburban,312.55
+37,Female,Retired,Medium,Master's,Non-smoker,Low,Medium,Urban,100.33
+47,Male,Unemployed,Low,High School,Regular Smoker,High,Low,Urban,413.3
+28,Male,Student,Medium,Master's,Non-smoker,Low,Low,Suburban,237.76
+45,Male,Unemployed,High,Master's,Non-smoker,Medium,Low,Rural,206.25
+42,Female,Unemployed,Low,High School,Occasional Smoker,High,Medium,Suburban,150.61
+56,Male,Student,Low,Bachelor's,Occasional Smoker,Low,Low,Urban,218.22
+50,Female,Unemployed,Medium,High School,Non-smoker,Medium,Low,Urban,77.96
+18,Male,Student,High,High School,Non-smoker,Medium,Medium,Rural,213.47
+44,Female,Student,Medium,High School,Regular Smoker,High,Medium,Urban,374.47
+69,Female,Retired,Low,Bachelor's,Non-smoker,High,Low,Suburban,211.72
+30,Male,Professional,Medium,High School,Regular Smoker,Medium,Low,Urban,281.18
+58,Male,Professional,Low,Bachelor's,Non-smoker,Medium,Medium,Urban,193.4
+20,Female,Unemployed,Medium,Bachelor's,Occasional Smoker,High,Medium,Rural,150.67
+56,Female,Unemployed,High,High School,Occasional Smoker,Medium,Medium,Suburban,154.73
+23,Male,Retired,Medium,Bachelor's,Non-smoker,Medium,Low,Suburban,169.88
+25,Female,Retired,High,Bachelor's,Regular Smoker,Medium,Medium,Urban,254.48
+44,Female,Retired,Low,High School,Non-smoker,Medium,High,Urban,63.96
+26,Female,Student,Medium,High School,Non-smoker,Low,Low,Suburban,107.49
+54,Male,Retired,High,Bachelor's,Non-smoker,Low,High,Suburban,133.39
+50,Female,Retired,Low,High School,Non-smoker,Low,Low,Urban,96.43
+68,Male,Unemployed,High,Bachelor's,Occasional Smoker,High,Low,Urban,288.77
+59,Female,Retired,Low,High School,Non-smoker,Medium,Medium,Urban,112.91
+61,Male,Student,Medium,High School,Non-smoker,Medium,Low,Rural,209.13
+41,Male,Student,High,High School,Non-smoker,Medium,Low,Suburban,268.85
+32,Male,Unemployed,Medium,High School,Non-smoker,Low,Medium,Rural,130.15
+49,Female,Retired,Low,Bachelor's,Non-smoker,Medium,Medium,Urban,90.93
+49,Male,Retired,Medium,High School,Occasional Smoker,Medium,High,Rural,144.29
+41,Male,Student,Medium,Bachelor's,Regular Smoker,Medium,Medium,Urban,356.06
+58,Male,Retired,High,Master's,Occasional Smoker,High,Low,Suburban,307.92
+69,Female,Retired,Medium,Bachelor's,Non-smoker,Medium,Medium,Rural,93.12
+66,Non-binary,Retired,Low,Bachelor's,Non-smoker,Medium,Medium,Urban,84.76
+66,Male,Professional,Medium,High School,Non-smoker,Medium,High,Urban,101.67
+69,Female,Unemployed,Medium,High School,Non-smoker,High,High,Urban,206.09
+29,Female,Professional,Medium,Bachelor's,Non-smoker,Medium,High,Urban,18.2
+56,Female,Unemployed,Medium,High School,Non-smoker,Low,Medium,Suburban,118.95
+19,Male,Student,High,Bachelor's,Non-smoker,Medium,Medium,Suburban,217.9
+20,Male,Retired,Medium,High School,Regular Smoker,Medium,Low,Suburban,234.36
+66,Male,Unemployed,Medium,Bachelor's,Non-smoker,Medium,High,Suburban,131.24
+54,Male,Professional,Low,Master's,Non-smoker,Low,Low,Suburban,207
+66,Male,Retired,Low,Master's,Non-smoker,High,Low,Urban,316.18
+34,Female,Student,Low,Bachelor's,Non-smoker,High,Low,Urban,256.97
+66,Male,Unemployed,Low,Bachelor's,Regular Smoker,Low,Medium,Rural,345.86
+19,Male,Unemployed,Medium,Bachelor's,Non-smoker,High,Medium,Urban,237.18
+19,Female,Unemployed,Medium,Bachelor's,Non-smoker,Low,Medium,Suburban,66.11
+45,Male,Retired,Medium,High School,Non-smoker,Low,High,Urban,144.48
+40,Female,Professional,High,High School,Non-smoker,Low,High,Suburban,94.55
+54,Female,Professional,High,High School,Non-smoker,Low,Low,Suburban,135.1
+49,Male,Unemployed,High,PhD,Occasional Smoker,High,Low,Urban,285.52
+50,Female,Student,Medium,High School,Occasional Smoker,Low,High,Urban,116.33
+18,Female,Student,Medium,Bachelor's,Occasional Smoker,Low,High,Suburban,49.58
+36,Female,Professional,Medium,Bachelor's,Non-smoker,Low,Medium,Urban,68.37
+19,Female,Student,Low,Bachelor's,Occasional Smoker,Low,Medium,Urban,116.72
+70,Female,Professional,Low,Bachelor's,Non-smoker,Low,Low,Suburban,134.27
+61,Female,Unemployed,High,High School,Non-smoker,Medium,High,Urban,105.08
+43,Male,Professional,High,Bachelor's,Occasional Smoker,Low,Medium,Rural,240.31
+49,Male,Professional,Low,Master's,Non-smoker,High,Medium,Suburban,249.18
+23,Male,Unemployed,Medium,High School,Non-smoker,High,Low,Urban,254
+49,Female,Student,High,High School,Occasional Smoker,Low,High,Suburban,80.6
+21,Male,Professional,Low,Bachelor's,Non-smoker,High,Medium,Suburban,248.99
+28,Female,Professional,Low,Master's,Non-smoker,Low,Low,Urban,83.3
+34,Female,Unemployed,High,High School,Non-smoker,Low,Medium,Urban,120.69
+55,Female,Student,Medium,Bachelor's,Regular Smoker,Low,Medium,Urban,250.61
+41,Non-binary,Professional,Low,Master's,Regular Smoker,Medium,Medium,Urban,236.49
+22,Female,Unemployed,Medium,High School,Regular Smoker,Medium,Medium,Urban,210.89
+69,Female,Professional,High,PhD,Non-smoker,Medium,Medium,Urban,150.13
+51,Male,Retired,Medium,Bachelor's,Non-smoker,Medium,High,Urban,153.51
+23,Female,Unemployed,Low,Bachelor's,Non-smoker,Medium,Low,Suburban,65.19
+39,Male,Student,Low,Bachelor's,Non-smoker,Low,Low,Suburban,166.25
+28,Male,Student,Medium,High School,Non-smoker,Medium,Low,Suburban,196.19
+65,Female,Student,Medium,High School,Non-smoker,Low,Medium,Suburban,176.99
+33,Female,Student,Medium,High School,Non-smoker,Low,Medium,Rural,116.08
+50,Male,Professional,Low,High School,Regular Smoker,Low,High,Suburban,284.58
+26,Female,Professional,High,High School,Non-smoker,Low,Medium,Suburban,108.12
+23,Female,Student,Low,Master's,Non-smoker,Medium,Medium,Urban,139.94
+33,Female,Student,Low,Master's,Non-smoker,High,High,Rural,181.63
+46,Female,Student,Low,Bachelor's,Regular Smoker,Low,Low,Urban,272.73
+20,Female,Professional,Low,Master's,Occasional Smoker,Medium,High,Urban,17.34
+37,Non-binary,Student,Medium,Bachelor's,Occasional Smoker,Medium,Medium,Suburban,143.72
+53,Female,Student,Medium,High School,Regular Smoker,High,Medium,Urban,403.36
+36,Female,Retired,Low,High School,Non-smoker,Low,Medium,Urban,102.9
+43,Non-binary,Retired,Medium,Bachelor's,Non-smoker,Medium,Medium,Suburban,103.59
+20,Female,Student,Low,Bachelor's,Non-smoker,High,Low,Suburban,248.37
+36,Male,Unemployed,Medium,High School,Non-smoker,Medium,Medium,Suburban,134.64
+37,Male,Student,High,Bachelor's,Non-smoker,Medium,Medium,Rural,245.21
+49,Male,Retired,Low,High School,Non-smoker,Low,High,Urban,120.84
+24,Male,Unemployed,Medium,Bachelor's,Regular Smoker,Low,Medium,Urban,225.25
+69,Female,Unemployed,Low,Master's,Regular Smoker,Medium,High,Suburban,215.95
+58,Female,Student,Low,Bachelor's,Occasional Smoker,Medium,Medium,Urban,141.76
+50,Female,Retired,Low,PhD,Occasional Smoker,Low,Medium,Suburban,90.85
+57,Male,Retired,Medium,Master's,Occasional Smoker,Medium,Medium,Urban,219.03
+56,Female,Unemployed,Medium,Master's,Non-smoker,Medium,Medium,Urban,125.39
+35,Female,Student,Low,Master's,Non-smoker,Medium,High,Suburban,99.55
+57,Female,Professional,High,Master's,Occasional Smoker,Medium,Medium,Suburban,171.38
+18,Female,Professional,Medium,Bachelor's,Occasional Smoker,High,Medium,Suburban,179.02
+28,Female,Retired,High,High School,Non-smoker,Medium,Low,Urban,110.53
+45,Male,Professional,Medium,High School,Regular Smoker,High,Medium,Urban,377.26
+42,Female,Retired,Medium,Bachelor's,Non-smoker,Low,Low,Urban,71.07
+67,Male,Retired,Low,High School,Non-smoker,Low,Medium,Urban,172.9
+40,Male,Retired,Low,High School,Occasional Smoker,Low,Low,Urban,168.85
+48,Female,Professional,High,PhD,Non-smoker,Low,Low,Urban,144.85
+47,Male,Retired,Low,Master's,Non-smoker,Low,Low,Suburban,162.77
+59,Female,Unemployed,High,Master's,Non-smoker,Low,Low,Urban,164.68
+52,Male,Student,Medium,High School,Occasional Smoker,High,Low,Suburban,331.81
+24,Female,Student,Low,High School,Non-smoker,Low,High,Rural,89.11
+33,Male,Retired,Low,High School,Occasional Smoker,Medium,Medium,Urban,165.51
+43,Non-binary,Student,Low,High School,Non-smoker,Low,Medium,Urban,114.93
+65,Female,Professional,High,High School,Non-smoker,High,Medium,Urban,253.55
+69,Male,Professional,Medium,High School,Regular Smoker,Medium,Low,Suburban,288.33
+66,Female,Student,Low,Master's,Non-smoker,Low,High,Urban,121.21
+19,Non-binary,Professional,Low,Bachelor's,Regular Smoker,Medium,Low,Urban,218.26
+18,Male,Student,Low,High School,Non-smoker,Medium,Low,Suburban,203.93
+65,Male,Student,Medium,High School,Regular Smoker,Medium,Medium,Urban,360.42
+29,Female,Student,Low,Bachelor's,Non-smoker,Medium,Low,Suburban,128.93
+22,Female,Retired,High,High School,Non-smoker,Medium,Medium,Suburban,104.74
+54,Female,Student,Low,Master's,Non-smoker,Medium,Low,Suburban,174.56
+49,Female,Retired,Low,High School,Non-smoker,Medium,Medium,Urban,74.58
+26,Male,Student,Medium,High School,Occasional Smoker,Low,Medium,Rural,183.69
+58,Male,Student,Medium,High School,Non-smoker,High,Low,Suburban,284.3
+52,Female,Student,High,High School,Non-smoker,Medium,Medium,Urban,208.54
+36,Male,Professional,Medium,Bachelor's,Non-smoker,Medium,Low,Urban,137.38
+65,Male,Retired,Low,Bachelor's,Non-smoker,Low,Medium,Urban,182.89
+33,Female,Retired,Medium,Bachelor's,Occasional Smoker,Medium,Low,Rural,82.91
+20,Female,Student,Low,High School,Non-smoker,High,Medium,Rural,204.91
+37,Female,Student,Low,Bachelor's,Occasional Smoker,Low,Medium,Suburban,134.94
+41,Female,Professional,High,Bachelor's,Occasional Smoker,Medium,Low,Rural,116.97
+50,Female,Professional,Medium,Master's,Occasional Smoker,Medium,High,Urban,70.7
+41,Female,Professional,High,High School,Non-smoker,High,High,Urban,211.67
+69,Female,Retired,Medium,High School,Occasional Smoker,Medium,Medium,Rural,89.46
+28,Male,Retired,Medium,Bachelor's,Regular Smoker,Medium,Medium,Suburban,260.68
+66,Male,Retired,Low,Bachelor's,Occasional Smoker,High,Low,Urban,252.57
+25,Female,Student,Low,High School,Non-smoker,Medium,Medium,Suburban,119.82
+53,Female,Retired,High,High School,Occasional Smoker,Low,Low,Rural,129.28
+55,Male,Unemployed,Low,High School,Occasional Smoker,Low,Low,Suburban,160.54
+57,Male,Unemployed,High,Master's,Occasional Smoker,Medium,High,Rural,155.06
+37,Male,Professional,Medium,High School,Non-smoker,Low,Medium,Suburban,183.08
+52,Male,Retired,Low,Master's,Non-smoker,Low,Medium,Urban,148.84
+65,Female,Unemployed,Medium,Bachelor's,Occasional Smoker,High,Low,Rural,208.21
+42,Male,Professional,Medium,Master's,Non-smoker,Low,Medium,Urban,172.33
+52,Female,Retired,Low,Master's,Occasional Smoker,Medium,Low,Rural,122.62
+42,Female,Student,High,High School,Non-smoker,Low,Low,Urban,167.41
+46,Female,Unemployed,Medium,Master's,Non-smoker,Medium,Low,Suburban,106.61
+35,Female,Student,Low,High School,Non-smoker,Medium,Medium,Urban,142.72
+63,Male,Retired,Medium,Master's,Non-smoker,Low,Medium,Urban,192.58
+35,Female,Unemployed,High,Bachelor's,Regular Smoker,Medium,Low,Urban,242.21
+19,Male,Retired,Low,High School,Regular Smoker,Low,Medium,Rural,258.81
+52,Male,Student,High,Bachelor's,Occasional Smoker,High,Low,Rural,368.74
+33,Female,Unemployed,Low,PhD,Non-smoker,High,Medium,Urban,157.83
+58,Male,Student,Medium,High School,Occasional Smoker,Medium,High,Rural,162.87
+53,Male,Retired,Medium,Bachelor's,Occasional Smoker,Medium,Medium,Rural,195.93
+50,Female,Retired,Low,Bachelor's,Non-smoker,Medium,High,Suburban,81.1
+21,Male,Student,Low,Master's,Non-smoker,Medium,High,Urban,119.12
+50,Female,Unemployed,Medium,High School,Occasional Smoker,Medium,Medium,Rural,106.94
+31,Male,Student,Medium,High School,Occasional Smoker,Low,Medium,Suburban,215.83
+38,Female,Retired,Medium,High School,Regular Smoker,Medium,High,Rural,147.02
+65,Female,Student,Low,Bachelor's,Non-smoker,Low,Low,Rural,139.74
+37,Female,Retired,High,High School,Occasional Smoker,Medium,Low,Rural,130.47
+25,Female,Student,Medium,Master's,Non-smoker,Low,High,Suburban,87.61
+24,Male,Unemployed,High,High School,Non-smoker,Medium,Medium,Urban,162.18
+20,Female,Unemployed,Low,Bachelor's,Non-smoker,Low,Low,Urban,60.45
+34,Male,Student,Medium,High School,Non-smoker,Low,Medium,Urban,188.57
+50,Female,Student,Medium,High School,Non-smoker,Medium,Medium,Urban,134.93
+65,Male,Unemployed,Low,High School,Non-smoker,High,Medium,Suburban,296.65
+29,Female,Retired,Medium,High School,Occasional Smoker,Medium,Medium,Suburban,85.42
+68,Male,Unemployed,Low,Bachelor's,Occasional Smoker,Low,Medium,Rural,212.32
+39,Female,Retired,Medium,Master's,Non-smoker,Low,Medium,Urban,89.88
+39,Female,Student,Medium,Bachelor's,Regular Smoker,High,Medium,Suburban,351.43
+63,Female,Student,Low,PhD,Non-smoker,Medium,Medium,Urban,159.65
+47,Male,Retired,Medium,Master's,Non-smoker,Low,Medium,Urban,176.36
+55,Female,Student,Medium,Bachelor's,Occasional Smoker,High,Medium,Urban,236.08
+55,Male,Retired,Low,Master's,Non-smoker,High,Low,Suburban,260.71
+62,Male,Professional,High,Bachelor's,Non-smoker,High,Medium,Urban,292.79
+68,Male,Unemployed,High,High School,Non-smoker,High,High,Suburban,278.25
+25,Male,Professional,Medium,Bachelor's,Non-smoker,High,Low,Urban,194.27
+44,Female,Retired,Low,High School,Occasional Smoker,Low,Low,Rural,78.02
+44,Female,Unemployed,Medium,Bachelor's,Non-smoker,Low,Medium,Rural,105.62
+51,Male,Retired,Medium,Bachelor's,Non-smoker,Medium,High,Rural,114.89
+38,Male,Unemployed,Low,High School,Non-smoker,Medium,Low,Rural,179.66
+47,Male,Unemployed,Medium,High School,Occasional Smoker,Medium,Low,Rural,159.45
+50,Male,Unemployed,Medium,Master's,Non-smoker,Medium,Low,Rural,179.77
+45,Non-binary,Unemployed,Medium,Bachelor's,Occasional Smoker,Medium,Medium,Suburban,112.94
+64,Male,Retired,Medium,High School,Non-smoker,Medium,Low,Urban,200.7
+50,Male,Unemployed,Medium,Bachelor's,Non-smoker,Low,Low,Urban,209.97
+22,Male,Unemployed,High,Bachelor's,Non-smoker,Low,Medium,Urban,176.35
+65,Female,Professional,Low,Bachelor's,Non-smoker,Medium,High,Suburban,53.84
+36,Non-binary,Student,Medium,PhD,Non-smoker,Medium,Medium,Suburban,143.24
+21,Female,Student,High,Bachelor's,Non-smoker,Low,Low,Rural,135.28
+52,Female,Professional,Medium,High School,Regular Smoker,Medium,Medium,Rural,202.75
+66,Female,Professional,Medium,Master's,Non-smoker,Medium,High,Urban,87.81
+34,Male,Retired,Medium,Master's,Occasional Smoker,Medium,Medium,Suburban,140.59
+61,Female,Retired,Medium,High School,Non-smoker,Low,High,Rural,87.18
+45,Female,Retired,High,High School,Non-smoker,Medium,High,Urban,117.99
+47,Female,Professional,Medium,High School,Non-smoker,Low,Low,Suburban,104.76
+46,Female,Professional,High,Bachelor's,Regular Smoker,High,Medium,Urban,380
+63,Female,Unemployed,Low,Bachelor's,Non-smoker,Low,Low,Suburban,131.08
+70,Female,Retired,Low,Bachelor's,Non-smoker,Medium,Medium,Urban,93.14
+23,Non-binary,Retired,Medium,Master's,Non-smoker,Low,Low,Rural,69.78
+52,Female,Retired,Low,Bachelor's,Non-smoker,Medium,Low,Suburban,126.35
+58,Female,Student,Low,High School,Non-smoker,Medium,High,Urban,132.98
+54,Female,Unemployed,Low,High School,Non-smoker,Low,Low,Urban,124.74
+41,Male,Retired,Low,High School,Non-smoker,Medium,High,Urban,110.72
+46,Female,Retired,Low,High School,Non-smoker,Low,Low,Rural,112.43
+66,Male,Retired,High,Bachelor's,Occasional Smoker,Medium,Low,Suburban,209.23
+63,Female,Student,Low,Master's,Non-smoker,Medium,High,Urban,78.29
+70,Non-binary,Student,Medium,High School,Non-smoker,Medium,Medium,Urban,156.87
+48,Female,Professional,Medium,Bachelor's,Non-smoker,High,Medium,Suburban,214.11
+52,Male,Unemployed,High,Bachelor's,Occasional Smoker,Medium,Low,Suburban,197.51
+50,Male,Professional,Low,High School,Non-smoker,Medium,Medium,Suburban,153.7
+69,Male,Unemployed,High,High School,Non-smoker,Low,Medium,Urban,190.54
+38,Female,Student,Medium,High School,Non-smoker,Medium,Medium,Suburban,141.55
+49,Male,Retired,Medium,High School,Non-smoker,Medium,Medium,Suburban,211.7
+40,Male,Professional,Medium,Master's,Non-smoker,Low,High,Rural,146.83
+50,Male,Retired,High,High School,Occasional Smoker,High,Medium,Rural,289.54
+20,Female,Professional,Low,High School,Occasional Smoker,Low,High,Suburban,26.95
+35,Female,Student,Medium,Bachelor's,Occasional Smoker,High,Medium,Suburban,232.62
+42,Male,Student,Medium,PhD,Non-smoker,Low,Medium,Urban,240.02
+59,Male,Student,Medium,High School,Non-smoker,High,Low,Rural,292.77
+48,Female,Professional,High,High School,Non-smoker,Medium,Low,Urban,152.77
+20,Female,Unemployed,Low,High School,Non-smoker,Low,High,Urban,27.81
+57,Female,Professional,High,High School,Non-smoker,Low,Low,Urban,106.77
+63,Male,Unemployed,Low,High School,Occasional Smoker,Medium,Low,Rural,163.85
+41,Female,Professional,Low,Bachelor's,Non-smoker,High,Low,Urban,205.64
+67,Female,Professional,Low,High School,Non-smoker,Low,Low,Urban,122.16
+49,Female,Student,Low,High School,Non-smoker,Low,High,Urban,94.64
+64,Female,Retired,Medium,Master's,Non-smoker,Medium,High,Urban,45.66
+39,Male,Retired,Low,High School,Non-smoker,Medium,Medium,Urban,164.16
+40,Male,Unemployed,Low,High School,Occasional Smoker,Medium,Low,Rural,188.36
+19,Female,Retired,High,High School,Non-smoker,Medium,Medium,Rural,115.76
+44,Female,Professional,High,PhD,Occasional Smoker,Low,Medium,Urban,131.29
+59,Female,Professional,High,High School,Occasional Smoker,High,High,Rural,195.05
+19,Female,Student,High,Master's,Occasional Smoker,Medium,Medium,Suburban,117.64
+43,Female,Student,Medium,Bachelor's,Non-smoker,Low,Low,Urban,145.29
+34,Female,Retired,Low,High School,Non-smoker,Medium,Medium,Suburban,87.22
+57,Male,Unemployed,Low,PhD,Non-smoker,Medium,High,Rural,109.75
+50,Female,Retired,Medium,High School,Occasional Smoker,Medium,Medium,Urban,115.79
+26,Male,Retired,Low,High School,Non-smoker,Medium,Medium,Urban,154.69
+60,Male,Retired,Medium,Master's,Regular Smoker,Low,Low,Rural,326.79
+65,Non-binary,Retired,Low,Bachelor's,Non-smoker,Medium,Medium,Suburban,90.01
+56,Male,Professional,Low,Bachelor's,Non-smoker,High,Medium,Urban,274.59
+46,Male,Unemployed,Medium,High School,Non-smoker,Low,Low,Suburban,202.34
+59,Male,Professional,Medium,High School,Non-smoker,Medium,Medium,Suburban,167.49
+43,Female,Unemployed,Medium,Bachelor's,Non-smoker,High,Low,Rural,180.75
+52,Male,Student,Medium,High School,Occasional Smoker,High,Low,Suburban,352.14
+67,Male,Retired,Low,High School,Occasional Smoker,Medium,Low,Urban,212.44
+42,Male,Professional,Low,High School,Occasional Smoker,Medium,Low,Suburban,176.77
+41,Male,Unemployed,High,High School,Regular Smoker,Medium,Medium,Suburban,308.07
+30,Male,Student,Medium,Master's,Occasional Smoker,High,Low,Urban,280.76
+24,Male,Student,Low,High School,Non-smoker,High,Low,Suburban,281.96
+53,Female,Retired,High,PhD,Occasional Smoker,Low,High,Rural,98.01
+62,Male,Unemployed,Low,High School,Non-smoker,Medium,Medium,Urban,198.94
+37,Male,Professional,Medium,Bachelor's,Non-smoker,Medium,Medium,Suburban,183.33
+18,Male,Retired,Low,High School,Occasional Smoker,Medium,Medium,Urban,133.75
+25,Male,Professional,Medium,High School,Non-smoker,Medium,Medium,Urban,165.36
+63,Female,Student,Medium,High School,Non-smoker,Medium,Low,Urban,169.83
+33,Female,Professional,Low,High School,Non-smoker,High,High,Urban,146.37
+31,Male,Professional,High,Bachelor's,Non-smoker,Low,Low,Rural,190.4
+29,Male,Retired,Medium,PhD,Regular Smoker,Low,Medium,Urban,310.82
+68,Male,Professional,Low,Bachelor's,Non-smoker,Medium,Low,Suburban,172.22
+40,Female,Retired,Low,High School,Non-smoker,Medium,Medium,Urban,108.11
+32,Female,Student,Low,High School,Non-smoker,Low,Medium,Rural,123.94
+45,Female,Retired,Low,High School,Non-smoker,Low,Medium,Suburban,80.36
+51,Male,Retired,Medium,Bachelor's,Regular Smoker,Medium,Low,Suburban,261.5
+19,Female,Unemployed,High,Bachelor's,Non-smoker,High,Medium,Urban,188.61
+49,Male,Professional,Medium,Master's,Non-smoker,Medium,High,Urban,148.09
+40,Male,Student,Low,High School,Occasional Smoker,Medium,High,Urban,180.04
+39,Male,Retired,Low,Bachelor's,Regular Smoker,Low,Low,Rural,245.14
+68,Male,Student,Low,High School,Occasional Smoker,Medium,Low,Urban,255.69
+42,Female,Unemployed,Medium,Bachelor's,Occasional Smoker,Medium,High,Suburban,49.43
+39,Female,Professional,Medium,Bachelor's,Non-smoker,Medium,Medium,Suburban,77.92
+39,Male,Retired,Low,Bachelor's,Non-smoker,Low,Medium,Urban,145.96
+66,Female,Professional,Medium,Bachelor's,Non-smoker,Low,High,Suburban,70.28
+69,Non-binary,Unemployed,High,High School,Regular Smoker,Low,High,Suburban,215.36
+59,Female,Unemployed,Medium,Bachelor's,Non-smoker,Medium,Medium,Suburban,80.6
+23,Female,Student,High,High School,Non-smoker,High,Medium,Urban,252.34
+32,Female,Retired,Medium,Bachelor's,Non-smoker,High,Low,Urban,160.68
+60,Non-binary,Student,Medium,High School,Non-smoker,Medium,Medium,Urban,169.4
+54,Female,Unemployed,Medium,Bachelor's,Non-smoker,Medium,Low,Rural,120.07
+50,Male,Professional,Medium,Master's,Regular Smoker,High,Low,Suburban,395.03
+25,Male,Student,Low,Master's,Non-smoker,Low,Low,Urban,202.51
+70,Female,Student,Low,Master's,Occasional Smoker,Medium,Low,Rural,147.68
+61,Male,Professional,Low,Bachelor's,Occasional Smoker,High,Medium,Urban,305.31
+61,Female,Student,Medium,Bachelor's,Non-smoker,Medium,Medium,Rural,172.77
+22,Male,Professional,Low,Bachelor's,Non-smoker,High,Medium,Rural,238.62
+56,Male,Retired,High,Master's,Non-smoker,High,Low,Rural,254.18
+21,Male,Professional,Medium,High School,Non-smoker,Medium,High,Rural,139.32
+23,Male,Retired,Medium,PhD,Occasional Smoker,High,Low,Urban,216.55
+62,Female,Professional,Low,Master's,Non-smoker,Medium,Medium,Urban,103.74
+49,Female,Unemployed,High,Bachelor's,Non-smoker,Medium,High,Suburban,86.37
+69,Female,Unemployed,High,High School,Non-smoker,Medium,Medium,Urban,132.27
+47,Female,Retired,Medium,High School,Regular Smoker,Low,Medium,Urban,220.25
+64,Male,Retired,Low,Master's,Occasional Smoker,Medium,High,Suburban,163.76
+52,Female,Unemployed,Medium,High School,Occasional Smoker,Medium,Low,Urban,118.81
+57,Female,Retired,Low,Master's,Occasional Smoker,Low,Medium,Rural,128.63
+69,Female,Professional,Low,High School,Non-smoker,Low,Medium,Rural,118.15
+33,Male,Professional,Medium,High School,Occasional Smoker,Low,Low,Rural,178.7
+30,Female,Unemployed,Medium,Master's,Non-smoker,Medium,High,Suburban,31.94
+67,Female,Student,Medium,Bachelor's,Occasional Smoker,High,High,Rural,170.58
+59,Non-binary,Professional,High,Bachelor's,Occasional Smoker,High,Medium,Rural,196.73
+47,Female,Retired,Medium,Bachelor's,Non-smoker,Medium,Low,Suburban,90.87
+36,Male,Student,Medium,High School,Occasional Smoker,High,Low,Urban,303.78
+34,Female,Student,Low,Bachelor's,Regular Smoker,Medium,Medium,Rural,226.68
+36,Female,Professional,High,High School,Non-smoker,Medium,Low,Rural,132.55
+45,Male,Professional,Low,Master's,Occasional Smoker,Medium,Medium,Urban,211.73
+43,Female,Student,High,Master's,Non-smoker,Low,Medium,Urban,177.03
+54,Female,Student,High,High School,Non-smoker,High,Medium,Suburban,335.06
+43,Male,Unemployed,Low,Bachelor's,Non-smoker,Medium,Medium,Urban,168.66
+70,Male,Retired,Medium,Bachelor's,Non-smoker,Medium,Medium,Rural,179.06
+40,Male,Unemployed,High,High School,Regular Smoker,Medium,Low,Rural,376.52
+26,Male,Professional,Medium,PhD,Regular Smoker,Medium,Low,Urban,272.86
+29,Male,Unemployed,High,High School,Occasional Smoker,Low,Medium,Suburban,197.5
+70,Female,Unemployed,High,High School,Non-smoker,Medium,Medium,Urban,147.87
+18,Male,Unemployed,Medium,Bachelor's,Regular Smoker,Low,Medium,Suburban,308.79
+18,Male,Unemployed,Low,Bachelor's,Non-smoker,Medium,Medium,Urban,139.81
+64,Female,Retired,High,Bachelor's,Regular Smoker,Medium,High,Suburban,237.64
+51,Female,Retired,Medium,Bachelor's,Non-smoker,Medium,Low,Urban,116.29
+49,Male,Student,Low,Bachelor's,Non-smoker,Medium,Low,Urban,221.36
+65,Male,Professional,Low,Bachelor's,Occasional Smoker,Medium,Low,Urban,161.05
+42,Male,Unemployed,Medium,High School,Non-smoker,Medium,Medium,Urban,188.81
+57,Female,Student,High,High School,Non-smoker,Medium,Medium,Suburban,195.81
+62,Male,Student,High,High School,Non-smoker,Medium,High,Urban,235.43
+70,Female,Student,Medium,High School,Non-smoker,Medium,Medium,Suburban,193.83
+18,Non-binary,Retired,Low,Bachelor's,Non-smoker,High,High,Rural,138.33
+33,Male,Unemployed,Low,High School,Non-smoker,Low,High,Rural,155
+56,Female,Unemployed,High,High School,Non-smoker,Medium,Low,Rural,144.04
+22,Non-binary,Professional,Low,High School,Non-smoker,High,Medium,Rural,172.09
+39,Male,Unemployed,Low,Master's,Occasional Smoker,Medium,Medium,Urban,202.35
+46,Female,Unemployed,Low,Master's,Non-smoker,Low,Low,Urban,96.22
+20,Female,Student,Medium,Bachelor's,Regular Smoker,Medium,Medium,Suburban,274.06
+29,Female,Professional,High,Master's,Regular Smoker,Low,Medium,Rural,226.96
+43,Female,Unemployed,Low,Bachelor's,Non-smoker,Low,Low,Rural,87.78
+33,Female,Retired,Medium,Bachelor's,Occasional Smoker,High,Medium,Urban,173
+68,Female,Unemployed,Medium,High School,Occasional Smoker,Medium,Medium,Urban,121.17
+54,Female,Student,High,Bachelor's,Regular Smoker,Low,Low,Urban,307.23
+39,Female,Retired,Low,Bachelor's,Non-smoker,High,Medium,Suburban,168.12
+46,Female,Student,Medium,Bachelor's,Non-smoker,High,Low,Suburban,232.34
+31,Female,Unemployed,Low,Bachelor's,Occasional Smoker,Medium,Medium,Urban,94.24
+45,Male,Retired,High,Bachelor's,Occasional Smoker,Low,Low,Urban,238.7
+22,Male,Professional,Medium,Bachelor's,Occasional Smoker,High,High,Suburban,197.18
+64,Male,Professional,Low,Master's,Non-smoker,Medium,Medium,Suburban,200.27
+66,Male,Retired,Medium,High School,Regular Smoker,Medium,Low,Urban,312.73
+47,Male,Retired,Medium,Bachelor's,Regular Smoker,High,Medium,Rural,432.41
+63,Female,Student,Low,High School,Non-smoker,Medium,Medium,Suburban,178.76
+69,Male,Retired,High,Bachelor's,Non-smoker,Low,Medium,Rural,220.05
+22,Female,Student,Low,Bachelor's,Non-smoker,Medium,Medium,Rural,124.7
+29,Male,Unemployed,Medium,High School,Occasional Smoker,Medium,Medium,Urban,147.06
+33,Female,Student,Medium,Bachelor's,Occasional Smoker,Medium,Low,Urban,147.74
+43,Non-binary,Retired,Medium,High School,Occasional Smoker,Medium,Low,Suburban,88.48
+43,Male,Retired,Low,Bachelor's,Non-smoker,Low,Medium,Urban,209.03
+65,Female,Unemployed,High,High School,Non-smoker,Medium,Medium,Rural,145.45
+38,Male,Retired,Medium,Bachelor's,Non-smoker,Medium,Low,Suburban,176.02
+56,Female,Retired,Medium,High School,Non-smoker,Medium,High,Rural,18.86
+53,Male,Professional,Medium,Bachelor's,Occasional Smoker,Medium,Low,Urban,192.1
+50,Female,Professional,Medium,High School,Regular Smoker,Medium,Medium,Urban,248.33
+47,Male,Unemployed,Low,Master's,Regular Smoker,Medium,Low,Suburban,321.16
+54,Female,Student,Low,Master's,Regular Smoker,Low,Low,Urban,239.14
+40,Female,Professional,High,PhD,Non-smoker,Medium,High,Suburban,81.66
+27,Male,Student,Low,Bachelor's,Non-smoker,High,Low,Rural,266.5
+22,Male,Retired,Medium,Bachelor's,Occasional Smoker,Medium,Medium,Urban,131.2
+53,Male,Professional,High,High School,Regular Smoker,Medium,Low,Suburban,290.53
+51,Male,Unemployed,Low,High School,Non-smoker,High,Medium,Urban,282.42
+69,Female,Unemployed,Medium,High School,Non-smoker,Low,High,Urban,83.58
+48,Male,Unemployed,Medium,Bachelor's,Non-smoker,Low,Low,Rural,182.68
+27,Male,Professional,Medium,Master's,Occasional Smoker,Medium,High,Rural,103.2
+36,Male,Student,Low,High School,Non-smoker,Low,Medium,Suburban,205.33
+49,Female,Retired,Low,Master's,Non-smoker,High,Medium,Rural,175.41
+18,Male,Student,Medium,Bachelor's,Non-smoker,Low,Medium,Suburban,203.56
+22,Male,Student,High,Bachelor's,Non-smoker,Medium,High,Urban,180.29
+62,Male,Retired,Medium,High School,Regular Smoker,Medium,Low,Urban,287.9
+21,Male,Retired,Medium,High School,Non-smoker,Low,Low,Rural,145.78
+33,Female,Professional,Low,Bachelor's,Occasional Smoker,Medium,High,Urban,68.21
+41,Male,Professional,Medium,Bachelor's,Occasional Smoker,Low,Medium,Suburban,164.71
+33,Male,Professional,Low,High School,Regular Smoker,Medium,Low,Suburban,335.7
+19,Female,Professional,High,Bachelor's,Non-smoker,Low,Medium,Suburban,95.47
+66,Female,Professional,High,Master's,Regular Smoker,High,Medium,Urban,375.64
+45,Male,Retired,Medium,Master's,Non-smoker,High,Medium,Urban,253.85
+49,Female,Student,High,Master's,Regular Smoker,Low,Low,Urban,318.89
+44,Female,Professional,Low,High School,Regular Smoker,Low,Medium,Suburban,223.2
+37,Male,Professional,Medium,High School,Non-smoker,Medium,Low,Suburban,141.43
+41,Female,Student,Low,Bachelor's,Non-smoker,Low,Medium,Suburban,161.65
+29,Female,Professional,High,High School,Non-smoker,High,High,Suburban,148.1
+67,Male,Student,Low,High School,Non-smoker,Medium,Medium,Urban,254.6
+52,Male,Student,Medium,High School,Non-smoker,Medium,Low,Rural,181.56
+50,Male,Retired,High,High School,Non-smoker,High,Low,Suburban,323.13
+50,Female,Unemployed,Low,High School,Non-smoker,Medium,Medium,Urban,75.3
+68,Non-binary,Retired,Low,High School,Non-smoker,High,Medium,Urban,204.38
+60,Female,Unemployed,Medium,High School,Non-smoker,High,Low,Rural,194.25
+54,Male,Unemployed,Medium,High School,Non-smoker,Low,Medium,Rural,182.05
+29,Female,Unemployed,Low,Bachelor's,Non-smoker,Low,Low,Urban,76.55
+20,Female,Professional,Low,Bachelor's,Non-smoker,High,Low,Suburban,176.98
+18,Male,Retired,Low,Bachelor's,Non-smoker,High,Low,Urban,198.93
+50,Male,Unemployed,High,High School,Non-smoker,Low,Low,Urban,231.23
+57,Female,Student,Medium,High School,Regular Smoker,High,Low,Suburban,357.55
+27,Male,Professional,Low,Bachelor's,Non-smoker,Medium,Medium,Suburban,176.58
+60,Female,Retired,Low,Bachelor's,Non-smoker,Low,High,Suburban,74.83
+61,Male,Unemployed,Low,Bachelor's,Non-smoker,High,Medium,Urban,317.36
+46,Male,Student,Low,High School,Occasional Smoker,Low,Low,Urban,252.86
+30,Male,Retired,Medium,Master's,Regular Smoker,High,Low,Urban,399.94
+29,Male,Retired,Low,High School,Regular Smoker,Low,Low,Urban,276.22
+48,Female,Professional,Low,High School,Occasional Smoker,Medium,Low,Urban,104.61
+63,Male,Retired,Medium,Bachelor's,Non-smoker,Low,Medium,Urban,174.28
+19,Female,Professional,Low,Bachelor's,Non-smoker,Medium,Medium,Urban,73.13
+68,Female,Unemployed,Medium,High School,Non-smoker,Medium,Low,Urban,140.64
+67,Female,Professional,Medium,High School,Regular Smoker,Low,Low,Suburban,237.88
+52,Male,Student,Medium,Bachelor's,Occasional Smoker,Medium,Low,Urban,233.67
+40,Female,Professional,Medium,High School,Occasional Smoker,Medium,Low,Urban,72.55
+34,Female,Student,Medium,High School,Non-smoker,Low,Medium,Suburban,136.08
+43,Male,Professional,High,High School,Occasional Smoker,High,Low,Urban,287.15
+25,Male,Retired,Medium,Master's,Non-smoker,Medium,Medium,Suburban,166.47
+46,Female,Unemployed,Medium,High School,Non-smoker,Medium,Medium,Urban,110.89
+43,Non-binary,Student,High,PhD,Non-smoker,Medium,High,Urban,127.15
+27,Male,Professional,Medium,Bachelor's,Non-smoker,Medium,High,Urban,117.99
+43,Female,Professional,Low,PhD,Non-smoker,Low,Medium,Urban,102.75
+51,Female,Professional,Low,Master's,Regular Smoker,Medium,Low,Suburban,225.15
+68,Female,Retired,Low,High School,Non-smoker,Medium,Medium,Rural,140.59
+58,Non-binary,Retired,High,High School,Non-smoker,Medium,Medium,Urban,140.96
+24,Female,Student,Medium,High School,Non-smoker,High,Low,Urban,218.19
+21,Male,Student,High,High School,Non-smoker,Medium,Medium,Suburban,231.59
+70,Male,Retired,Medium,Bachelor's,Occasional Smoker,Low,High,Urban,141.51
+67,Male,Student,Medium,High School,Occasional Smoker,Low,Medium,Rural,236.95
+62,Female,Unemployed,Low,High School,Occasional Smoker,Low,Low,Urban,90.48
+28,Female,Unemployed,Medium,High School,Regular Smoker,Low,Low,Rural,214.56
+46,Male,Retired,Medium,Master's,Occasional Smoker,Medium,Medium,Urban,162.15
+53,Female,Student,High,High School,Non-smoker,Low,Low,Urban,237.37
+42,Female,Professional,Low,High School,Occasional Smoker,Low,Medium,Rural,82.83
+38,Female,Unemployed,Medium,High School,Non-smoker,Low,Medium,Suburban,87.27
+53,Male,Retired,Medium,Master's,Non-smoker,Low,Low,Suburban,175.75
+27,Female,Student,Medium,Bachelor's,Non-smoker,Low,High,Suburban,66.92
+54,Male,Retired,Medium,High School,Occasional Smoker,Low,Medium,Suburban,169.78
+26,Male,Professional,Medium,High School,Occasional Smoker,Medium,Low,Urban,158.89
+41,Male,Unemployed,Low,High School,Non-smoker,Medium,Medium,Suburban,148.33
+52,Male,Retired,Medium,High School,Occasional Smoker,Low,Medium,Urban,163.55
+66,Male,Retired,Medium,Master's,Regular Smoker,Medium,Medium,Rural,312.42
+52,Female,Retired,High,Bachelor's,Non-smoker,Medium,High,Rural,126.57
+65,Male,Professional,High,High School,Non-smoker,Low,Medium,Urban,188.62
+53,Female,Retired,Low,Master's,Occasional Smoker,Low,High,Urban,51.61
+35,Male,Professional,Low,High School,Non-smoker,Medium,Medium,Urban,177.64
+66,Female,Professional,High,Bachelor's,Occasional Smoker,Medium,Medium,Urban,136.54
+56,Non-binary,Professional,Medium,Master's,Non-smoker,Low,High,Rural,74.9
+49,Male,Unemployed,High,High School,Non-smoker,Low,Medium,Urban,242.71
+41,Male,Unemployed,Low,Bachelor's,Occasional Smoker,High,Low,Urban,282.4
+40,Male,Retired,Medium,High School,Occasional Smoker,Low,Medium,Rural,144.95
+49,Female,Retired,High,High School,Occasional Smoker,Low,Medium,Rural,155.22
+54,Female,Unemployed,High,High School,Regular Smoker,High,Low,Suburban,381.68
+29,Male,Student,Low,High School,Occasional Smoker,High,High,Suburban,276.85
+66,Female,Unemployed,Medium,Bachelor's,Occasional Smoker,Medium,Low,Suburban,97.08
+30,Male,Professional,Medium,Master's,Non-smoker,Medium,Low,Rural,130.53
+40,Male,Unemployed,Low,Bachelor's,Non-smoker,Low,High,Suburban,100.23
+42,Female,Professional,Medium,Master's,Non-smoker,Low,Medium,Suburban,88.54
+52,Male,Retired,Medium,Master's,Occasional Smoker,Medium,Low,Urban,211.27
+58,Female,Student,High,High School,Non-smoker,Low,Medium,Urban,175.2
+47,Male,Retired,Medium,High School,Non-smoker,Medium,Medium,Suburban,197.67
+34,Non-binary,Professional,Low,High School,Non-smoker,High,Low,Rural,152.69
+66,Male,Professional,Low,Bachelor's,Occasional Smoker,High,High,Rural,232.88
+37,Male,Professional,Medium,Master's,Regular Smoker,Low,Medium,Rural,271.95
+65,Female,Student,Low,High School,Non-smoker,Medium,Medium,Suburban,142.89
+42,Male,Unemployed,Medium,Bachelor's,Regular Smoker,Medium,Medium,Suburban,237.28
+39,Non-binary,Retired,Low,Bachelor's,Non-smoker,High,Medium,Rural,151.02
+30,Female,Retired,High,Bachelor's,Non-smoker,Low,Low,Suburban,129.82
+36,Female,Unemployed,High,High School,Regular Smoker,Low,Low,Urban,277.25
+66,Female,Retired,Medium,High School,Non-smoker,Low,Medium,Urban,138.86
+53,Female,Student,High,High School,Regular Smoker,Medium,High,Rural,284.61
+29,Female,Retired,Medium,High School,Non-smoker,Medium,Low,Urban,65.57
+58,Female,Professional,Medium,High School,Non-smoker,Medium,Medium,Rural,110.04
+36,Female,Unemployed,Low,Bachelor's,Regular Smoker,Medium,High,Urban,143.71
+29,Male,Student,Medium,High School,Non-smoker,Low,Low,Suburban,206.77
+26,Male,Unemployed,Medium,Master's,Regular Smoker,Medium,Low,Suburban,265.36
+24,Female,Student,High,Bachelor's,Regular Smoker,Low,Low,Suburban,260.76
+45,Male,Professional,Medium,Bachelor's,Non-smoker,High,Medium,Urban,258.1
+31,Female,Unemployed,High,High School,Non-smoker,High,Low,Rural,219.27
+48,Male,Retired,Medium,Bachelor's,Non-smoker,High,Medium,Suburban,289.06
+69,Male,Student,Low,Master's,Non-smoker,High,Medium,Urban,290.66
+36,Female,Unemployed,High,High School,Non-smoker,Low,Medium,Suburban,115.02
+64,Female,Retired,Medium,High School,Non-smoker,Low,Low,Urban,109.89
+33,Male,Unemployed,Low,Bachelor's,Non-smoker,Medium,Medium,Urban,136.2
+70,Female,Unemployed,Medium,High School,Non-smoker,High,Medium,Urban,197.09
+22,Female,Unemployed,Low,High School,Regular Smoker,Low,High,Rural,141.63
+52,Male,Student,Medium,High School,Occasional Smoker,Low,High,Suburban,157.46
+29,Female,Retired,Medium,High School,Occasional Smoker,High,Medium,Suburban,175.62
+42,Male,Professional,Medium,Bachelor's,Non-smoker,Low,Medium,Urban,139.28
+69,Male,Student,High,High School,Occasional Smoker,Medium,Low,Urban,331.93
+38,Non-binary,Student,Medium,Master's,Non-smoker,Medium,Low,Rural,133.42
+53,Male,Student,Low,Bachelor's,Occasional Smoker,Low,Low,Suburban,219.96
+70,Female,Professional,Medium,Bachelor's,Regular Smoker,Low,Medium,Rural,234.51
+40,Female,Retired,High,Bachelor's,Non-smoker,Medium,Low,Urban,116.43
+33,Male,Retired,Low,Master's,Occasional Smoker,Medium,Low,Urban,160.71
+56,Female,Retired,Low,High School,Occasional Smoker,High,High,Rural,129.92
+62,Female,Unemployed,Low,Master's,Regular Smoker,Medium,Low,Suburban,230.07
+70,Male,Unemployed,Low,Bachelor's,Occasional Smoker,Low,Low,Urban,152.84
+59,Female,Unemployed,High,Bachelor's,Non-smoker,Medium,Low,Urban,168
+56,Female,Professional,Medium,Bachelor's,Non-smoker,Medium,Medium,Rural,105.59
+31,Female,Unemployed,Low,High School,Non-smoker,Low,Medium,Urban,76.01
+48,Female,Professional,Medium,High School,Occasional Smoker,Medium,Low,Suburban,81.05
+22,Male,Retired,Low,Bachelor's,Non-smoker,Low,Medium,Urban,138.42
+52,Female,Unemployed,High,High School,Regular Smoker,Low,Medium,Urban,260.41
+40,Female,Unemployed,High,Bachelor's,Non-smoker,Low,High,Rural,85.97
+46,Female,Student,Low,High School,Non-smoker,Medium,High,Urban,71.16
+60,Female,Professional,High,High School,Non-smoker,Medium,High,Suburban,118.85
+28,Female,Retired,Medium,High School,Occasional Smoker,Medium,Medium,Rural,68.35
+35,Female,Student,Low,High School,Non-smoker,Medium,Low,Urban,151.9
+64,Female,Student,Low,Bachelor's,Non-smoker,High,Low,Urban,279.02
+29,Female,Retired,Medium,High School,Non-smoker,Low,Low,Suburban,67.03
+26,Female,Student,Medium,PhD,Non-smoker,Low,Medium,Urban,104.2
+27,Female,Professional,High,Bachelor's,Non-smoker,Low,High,Urban,57.12
+61,Female,Professional,Medium,High School,Occasional Smoker,Low,Medium,Urban,98.45
+34,Male,Unemployed,High,Bachelor's,Non-smoker,Medium,Low,Suburban,184.84
+55,Male,Student,Medium,Master's,Non-smoker,Medium,Medium,Suburban,206.61
+24,Male,Unemployed,High,Bachelor's,Occasional Smoker,Medium,High,Suburban,135.23
+63,Female,Student,Medium,High School,Regular Smoker,Low,Medium,Urban,279.35
+30,Female,Professional,Low,Master's,Occasional Smoker,Medium,High,Suburban,27.15
+57,Female,Professional,Medium,Bachelor's,Non-smoker,Medium,High,Rural,59.52
+59,Male,Professional,High,High School,Regular Smoker,Low,High,Suburban,284.21
+26,Female,Student,Low,High School,Regular Smoker,Medium,Medium,Suburban,237.01
+67,Male,Professional,High,Bachelor's,Occasional Smoker,High,Medium,Suburban,336.57
+44,Male,Student,Low,High School,Non-smoker,Medium,Low,Rural,233.22
+19,Female,Unemployed,Medium,Master's,Non-smoker,Medium,Low,Rural,67.42
+22,Female,Student,High,High School,Occasional Smoker,Medium,Medium,Urban,140.47
+46,Male,Unemployed,Low,Master's,Non-smoker,Low,Low,Urban,167.48
+54,Male,Student,Low,Bachelor's,Non-smoker,Medium,High,Urban,186.03
+55,Male,Unemployed,Medium,High School,Occasional Smoker,Low,Low,Urban,160.19
+36,Male,Professional,High,High School,Occasional Smoker,Low,High,Urban,132.76
+25,Female,Unemployed,Low,Bachelor's,Non-smoker,Medium,Low,Rural,78.89
+65,Male,Professional,High,Bachelor's,Occasional Smoker,High,Low,Urban,311.16
+62,Female,Professional,Low,Bachelor's,Non-smoker,Medium,High,Suburban,87.05
+18,Female,Unemployed,High,High School,Non-smoker,Medium,Low,Suburban,113.19
+39,Male,Student,High,High School,Occasional Smoker,High,Low,Urban,292.96
+69,Male,Student,Medium,High School,Non-smoker,High,Low,Rural,321.96
+34,Male,Retired,Medium,Bachelor's,Non-smoker,Medium,Medium,Rural,162.07
+24,Male,Student,Medium,High School,Regular Smoker,Low,Low,Urban,320.52
+42,Male,Retired,Medium,High School,Non-smoker,High,Medium,Urban,257.02
+62,Female,Student,Low,Bachelor's,Non-smoker,Low,Medium,Urban,145.6
+21,Male,Student,Low,Master's,Regular Smoker,Medium,Medium,Suburban,349.25
+53,Non-binary,Professional,Low,High School,Occasional Smoker,Low,Medium,Urban,76.94
+23,Male,Retired,Medium,High School,Occasional Smoker,Medium,Medium,Suburban,147.43
+48,Female,Student,Low,Bachelor's,Regular Smoker,Low,Low,Rural,241.08
+36,Female,Retired,Medium,Bachelor's,Non-smoker,Medium,High,Urban,17.92
+61,Female,Professional,High,High School,Occasional Smoker,Medium,Low,Rural,132.65
+56,Female,Professional,Low,Master's,Non-smoker,Low,Medium,Urban,133.57
+44,Female,Retired,Medium,Master's,Occasional Smoker,Medium,Medium,Rural,100.71
+27,Female,Professional,Medium,High School,Non-smoker,High,High,Urban,149.23
+43,Female,Unemployed,High,High School,Occasional Smoker,High,Medium,Suburban,234.59
+36,Female,Unemployed,High,Bachelor's,Non-smoker,Low,Low,Urban,121.84
+56,Male,Professional,High,Bachelor's,Non-smoker,Medium,Medium,Rural,221.49
+20,Male,Unemployed,High,High School,Occasional Smoker,Medium,Medium,Suburban,217.4
+62,Female,Student,Low,Bachelor's,Occasional Smoker,Medium,Low,Urban,149.81
+30,Female,Retired,High,Bachelor's,Occasional Smoker,Low,Medium,Suburban,127.06
+67,Female,Student,Medium,High School,Non-smoker,Medium,Medium,Urban,172.18
+45,Female,Retired,Low,Bachelor's,Non-smoker,High,High,Suburban,152.81
+37,Non-binary,Professional,High,Master's,Occasional Smoker,Medium,Medium,Rural,100.57
+45,Male,Student,Low,High School,Occasional Smoker,Medium,Low,Urban,209.41
+25,Male,Professional,Medium,High School,Occasional Smoker,Medium,Low,Urban,136.79
+58,Male,Professional,Low,High School,Regular Smoker,Low,High,Urban,314.53
+56,Male,Retired,Medium,Master's,Occasional Smoker,Medium,High,Suburban,170.64
+18,Female,Retired,Medium,PhD,Non-smoker,Medium,Low,Urban,73.84
+20,Male,Retired,Medium,High School,Occasional Smoker,Low,Low,Urban,160.89
+30,Female,Student,Medium,Bachelor's,Regular Smoker,High,Medium,Urban,342.85
+45,Male,Unemployed,Low,Bachelor's,Occasional Smoker,Low,Low,Urban,148.29
+66,Female,Retired,High,Bachelor's,Occasional Smoker,High,Low,Rural,269.83
+42,Female,Retired,Low,High School,Occasional Smoker,Medium,Low,Urban,100.06
+50,Male,Student,Medium,High School,Non-smoker,Low,Low,Suburban,244.18
+55,Female,Retired,High,High School,Non-smoker,Medium,Medium,Suburban,150.53
+70,Male,Student,High,Bachelor's,Non-smoker,Medium,Medium,Suburban,290.51
+23,Male,Professional,Medium,High School,Regular Smoker,Low,Low,Urban,251.32
+61,Male,Retired,Medium,Master's,Occasional Smoker,Medium,Low,Suburban,195.02
+62,Male,Retired,High,High School,Non-smoker,Medium,Low,Rural,206.04
+49,Male,Professional,High,High School,Regular Smoker,Medium,Medium,Urban,309.17
+62,Female,Professional,Medium,Bachelor's,Non-smoker,Low,Low,Urban,130.19
+64,Female,Professional,Low,Bachelor's,Non-smoker,Medium,Medium,Urban,140.56
+38,Female,Retired,Low,High School,Occasional Smoker,Low,Medium,Urban,75.44
+33,Male,Unemployed,Low,High School,Occasional Smoker,Medium,Low,Urban,172.2
+38,Female,Unemployed,Medium,PhD,Non-smoker,Low,Low,Suburban,104.46
+28,Male,Unemployed,Low,High School,Non-smoker,High,Low,Urban,263.77
+54,Male,Retired,Medium,High School,Non-smoker,Medium,Medium,Suburban,224.58
+53,Female,Professional,Low,Master's,Non-smoker,Medium,High,Suburban,47.22
+52,Male,Retired,Low,High School,Non-smoker,Medium,Low,Urban,180.23
+36,Female,Professional,High,High School,Non-smoker,Low,High,Suburban,84.45
+37,Female,Retired,Medium,High School,Non-smoker,Low,Low,Urban,70.75
+35,Male,Retired,Low,High School,Non-smoker,High,High,Rural,175.09
+64,Male,Professional,High,High School,Non-smoker,High,Medium,Urban,295.41
+58,Male,Unemployed,Low,High School,Non-smoker,Low,Medium,Suburban,150.49
+66,Female,Professional,Medium,High School,Regular Smoker,Medium,Medium,Rural,237.19
+31,Male,Student,Medium,High School,Occasional Smoker,Medium,Medium,Urban,228.07
+32,Male,Student,Low,Bachelor's,Non-smoker,Medium,High,Urban,202.51
+48,Male,Professional,High,High School,Non-smoker,Low,Medium,Suburban,219.6
+18,Female,Retired,Medium,High School,Non-smoker,Low,Medium,Urban,69.77
+70,Male,Student,Medium,Master's,Non-smoker,Low,Low,Rural,260.76
+20,Male,Student,Low,Bachelor's,Non-smoker,High,Low,Rural,278.07
+33,Female,Retired,Low,High School,Non-smoker,Medium,High,Urban,50.01
+40,Female,Retired,High,Master's,Non-smoker,Medium,Medium,Urban,135.63
+28,Male,Unemployed,Low,High School,Occasional Smoker,High,Medium,Urban,238.24
+29,Male,Retired,Medium,High School,Non-smoker,Medium,Medium,Urban,139.8
+27,Male,Professional,Medium,Bachelor's,Non-smoker,High,High,Suburban,201.93
+49,Female,Professional,Medium,Bachelor's,Occasional Smoker,Medium,Medium,Suburban,75.51
+33,Male,Unemployed,Low,High School,Non-smoker,Low,Medium,Urban,174.99
+25,Female,Student,Low,High School,Non-smoker,High,Medium,Urban,210.33
+55,Female,Student,Medium,Bachelor's,Non-smoker,Medium,Low,Urban,161.87
+29,Female,Retired,Low,High School,Non-smoker,Low,Low,Urban,84.43
+41,Male,Professional,Low,Master's,Occasional Smoker,Medium,High,Rural,118.28
+45,Female,Student,Low,High School,Non-smoker,Low,Low,Urban,115.29
+70,Female,Unemployed,Medium,Master's,Non-smoker,Medium,High,Rural,81.53
+25,Female,Unemployed,High,Bachelor's,Non-smoker,High,Low,Suburban,212.2
+45,Male,Professional,Low,Master's,Non-smoker,High,Low,Suburban,210.04
+53,Non-binary,Unemployed,Low,Bachelor's,Regular Smoker,High,High,Urban,254.04
+43,Male,Unemployed,Low,Bachelor's,Occasional Smoker,Low,Medium,Suburban,145.92
+25,Male,Professional,Medium,High School,Non-smoker,Medium,Low,Suburban,140.76
+67,Male,Retired,Medium,High School,Non-smoker,Low,Medium,Suburban,156.35
+45,Female,Retired,Medium,High School,Non-smoker,High,Medium,Urban,203.09
+45,Male,Unemployed,Medium,Master's,Regular Smoker,Medium,Medium,Urban,294.64
+54,Male,Retired,Medium,Master's,Non-smoker,Medium,Low,Suburban,212.07
+58,Male,Retired,High,High School,Non-smoker,Medium,High,Urban,142.46
+53,Male,Unemployed,High,High School,Non-smoker,Medium,High,Urban,192.27
+44,Female,Retired,Low,High School,Non-smoker,Medium,Low,Rural,108.92
+34,Female,Unemployed,Low,Bachelor's,Non-smoker,High,High,Urban,164.53
+26,Male,Student,Low,High School,Non-smoker,High,High,Urban,270.98
+50,Male,Professional,Low,Bachelor's,Non-smoker,Low,Medium,Urban,172.79
+70,Female,Professional,High,PhD,Non-smoker,Medium,Medium,Suburban,118.93
+37,Male,Retired,Medium,High School,Non-smoker,High,Low,Urban,279.53
+30,Male,Retired,Low,High School,Regular Smoker,Low,Low,Suburban,281.03
+45,Non-binary,Retired,Medium,High School,Non-smoker,Medium,Medium,Urban,88.56
+65,Female,Professional,Medium,High School,Non-smoker,Low,High,Urban,43.47
+46,Male,Student,Low,High School,Occasional Smoker,Medium,Medium,Suburban,202.03
+30,Female,Student,Low,High School,Non-smoker,Low,Medium,Urban,128.68
+63,Male,Professional,Medium,Master's,Occasional Smoker,Medium,Low,Rural,183.17
+52,Female,Student,Medium,High School,Occasional Smoker,Low,Low,Urban,133.55
+23,Male,Professional,Low,High School,Non-smoker,Medium,Medium,Urban,134.2
+35,Male,Student,Low,Master's,Regular Smoker,High,Low,Urban,422.16
+68,Male,Unemployed,Medium,Bachelor's,Non-smoker,High,Medium,Urban,270.26
+22,Female,Unemployed,Low,High School,Non-smoker,High,Low,Rural,160.4
+64,Female,Professional,Medium,Bachelor's,Non-smoker,Medium,Medium,Rural,105.45
+42,Male,Student,Medium,High School,Non-smoker,Low,Low,Urban,216.72
+19,Male,Retired,Low,Bachelor's,Occasional Smoker,Low,Medium,Suburban,137.77
+27,Female,Student,High,Bachelor's,Occasional Smoker,High,Medium,Suburban,252.62
+47,Male,Unemployed,Medium,Bachelor's,Occasional Smoker,Medium,Low,Urban,180.13
+67,Male,Unemployed,Low,High School,Regular Smoker,Low,Low,Urban,302.05
+62,Non-binary,Student,Medium,Master's,Occasional Smoker,Medium,Low,Rural,165.47
+22,Male,Student,Medium,High School,Occasional Smoker,Low,High,Rural,142.56
+50,Female,Retired,Medium,High School,Non-smoker,Low,Low,Rural,116.27
+18,Non-binary,Retired,Low,High School,Non-smoker,High,Medium,Suburban,163.99
+35,Male,Student,High,High School,Non-smoker,High,High,Suburban,290.78
+49,Male,Student,Medium,High School,Occasional Smoker,Medium,Medium,Urban,210.58
+64,Male,Student,Low,Master's,Non-smoker,High,Low,Urban,349.48
+66,Female,Student,Low,Master's,Non-smoker,Medium,High,Urban,103.09
+28,Female,Professional,Low,High School,Non-smoker,Medium,Low,Suburban,85.33
+38,Female,Student,High,High School,Non-smoker,Low,Medium,Suburban,175.03
+43,Male,Retired,Low,High School,Non-smoker,Low,High,Rural,125.1
+42,Female,Unemployed,Low,High School,Non-smoker,Medium,Medium,Rural,72.12
+39,Female,Professional,High,High School,Occasional Smoker,High,Medium,Rural,221.13
+44,Female,Student,Low,Master's,Non-smoker,Medium,Low,Rural,127.74
+66,Female,Unemployed,Low,High School,Occasional Smoker,Low,Low,Urban,105.5
+30,Female,Professional,Low,High School,Non-smoker,Low,Medium,Suburban,88.55
+50,Female,Unemployed,Low,High School,Non-smoker,High,Low,Suburban,172.65
+51,Female,Student,Low,Master's,Non-smoker,Low,High,Urban,125.77
+58,Male,Student,Medium,Bachelor's,Non-smoker,Medium,High,Rural,217.56
+52,Male,Retired,Low,Master's,Non-smoker,Low,High,Rural,127.4
+18,Female,Student,Low,Bachelor's,Non-smoker,Low,Medium,Urban,118.11
+38,Male,Student,Medium,High School,Non-smoker,Medium,Medium,Urban,223.36
+65,Female,Professional,Medium,High School,Non-smoker,Medium,High,Suburban,61.18
+23,Non-binary,Retired,Medium,Bachelor's,Non-smoker,Medium,High,Suburban,15.65
+45,Female,Professional,Medium,High School,Occasional Smoker,Low,Medium,Rural,91.65
+34,Male,Unemployed,Low,Bachelor's,Occasional Smoker,High,Low,Urban,223.87
+22,Male,Student,Medium,High School,Non-smoker,Low,Low,Urban,199.89
+48,Male,Unemployed,Medium,High School,Regular Smoker,Medium,Medium,Urban,338.16
+22,Female,Professional,Low,Bachelor's,Non-smoker,High,Medium,Urban,176.88
+55,Female,Student,High,Bachelor's,Occasional Smoker,Low,High,Urban,163.85
+20,Female,Student,Low,Bachelor's,Occasional Smoker,High,Low,Rural,196
+70,Male,Professional,Medium,High School,Occasional Smoker,Low,Low,Urban,207.07
+40,Female,Professional,Low,Bachelor's,Non-smoker,Medium,Low,Urban,95.82
+54,Female,Professional,Medium,High School,Non-smoker,Medium,Low,Urban,114.12
+70,Male,Professional,Medium,High School,Non-smoker,High,Low,Urban,299.97
+54,Female,Professional,High,High School,Non-smoker,Low,Medium,Rural,131.08
+27,Male,Student,Low,High School,Non-smoker,Medium,Medium,Suburban,223.34
+27,Male,Professional,Medium,High School,Non-smoker,High,Medium,Suburban,242.83
+36,Female,Student,Medium,High School,Non-smoker,Medium,Low,Urban,126.41
+34,Male,Student,Medium,High School,Non-smoker,Medium,Low,Urban,231.47
+38,Female,Professional,Medium,High School,Occasional Smoker,Low,Medium,Urban,83.19
+31,Female,Professional,Medium,High School,Regular Smoker,Medium,High,Urban,169.93
+26,Female,Retired,Medium,High School,Regular Smoker,Low,Low,Rural,229.72
+63,Male,Student,Low,High School,Non-smoker,Low,High,Urban,204.83
+18,Female,Professional,Medium,Bachelor's,Occasional Smoker,Medium,Low,Suburban,68.23
+68,Female,Professional,Low,High School,Regular Smoker,Medium,High,Urban,206.61
+62,Female,Professional,High,High School,Non-smoker,High,High,Suburban,188.57
+30,Male,Retired,Medium,High School,Non-smoker,High,Low,Rural,262.86
+21,Male,Retired,High,Bachelor's,Regular Smoker,Medium,Medium,Suburban,293.3
+18,Female,Unemployed,Low,Master's,Non-smoker,High,Low,Suburban,143.88
+66,Male,Student,High,Bachelor's,Non-smoker,Medium,High,Rural,205.57
+57,Female,Unemployed,High,Bachelor's,Non-smoker,Low,Medium,Suburban,181.77
+49,Female,Professional,Medium,High School,Non-smoker,Medium,Medium,Urban,113.25
+51,Female,Retired,Medium,Bachelor's,Occasional Smoker,Low,Medium,Urban,94.57
+45,Female,Retired,Low,Bachelor's,Occasional Smoker,Medium,High,Suburban,55.93
+48,Female,Unemployed,High,High School,Non-smoker,High,Low,Suburban,228.02
+25,Female,Retired,Medium,High School,Non-smoker,Medium,Medium,Urban,63.53
+56,Female,Professional,Low,High School,Non-smoker,High,Low,Urban,175.5
+43,Female,Retired,Low,Master's,Non-smoker,Low,Low,Rural,101.16
+51,Male,Unemployed,High,Bachelor's,Non-smoker,Medium,Medium,Urban,229.07
+20,Male,Professional,High,Bachelor's,Regular Smoker,Low,Low,Urban,302.88
+67,Female,Unemployed,High,High School,Non-smoker,Medium,Low,Urban,142.97
+29,Male,Retired,Medium,High School,Non-smoker,Medium,High,Rural,135.43
+18,Male,Unemployed,Low,High School,Occasional Smoker,Medium,Low,Urban,130.33
+61,Male,Unemployed,Low,High School,Non-smoker,Low,Medium,Suburban,140.42
+22,Female,Student,Low,Master's,Occasional Smoker,Low,Low,Urban,111.42
+47,Female,Retired,Low,Bachelor's,Occasional Smoker,Low,Low,Suburban,117.09
+47,Female,Retired,Low,High School,Occasional Smoker,Medium,Low,Rural,95.04
+34,Female,Unemployed,Low,Master's,Non-smoker,High,Medium,Urban,194.12
+65,Female,Student,Medium,High School,Non-smoker,Low,Medium,Suburban,190.59
+64,Male,Retired,High,PhD,Non-smoker,Medium,Low,Urban,196.9
+40,Female,Professional,Medium,High School,Non-smoker,High,Low,Urban,199.51
+32,Male,Unemployed,High,High School,Occasional Smoker,Medium,High,Rural,136.77
+54,Female,Retired,Medium,High School,Occasional Smoker,Medium,Low,Urban,109.33
+38,Female,Professional,Low,High School,Occasional Smoker,High,High,Suburban,115.09
+31,Male,Retired,Low,High School,Regular Smoker,Low,Low,Urban,295.09
+19,Male,Professional,Low,Bachelor's,Occasional Smoker,Low,Medium,Urban,162.06
+28,Male,Unemployed,Low,Master's,Non-smoker,Low,Low,Urban,163.98
+68,Male,Retired,Medium,Bachelor's,Non-smoker,High,High,Suburban,241.72
+56,Male,Retired,Low,High School,Occasional Smoker,High,Medium,Urban,231.28
+55,Female,Student,Low,Bachelor's,Non-smoker,Medium,Medium,Suburban,156.85
+51,Female,Unemployed,Low,High School,Non-smoker,Low,Low,Urban,101.39
+55,Female,Professional,High,High School,Non-smoker,Medium,Medium,Urban,142.73
+67,Female,Retired,Medium,Bachelor's,Occasional Smoker,Low,Medium,Suburban,108.16
+51,Female,Retired,Medium,Bachelor's,Non-smoker,Low,Low,Rural,81.88
+35,Female,Professional,Low,High School,Occasional Smoker,Medium,Low,Urban,68.95
+47,Male,Unemployed,Medium,High School,Occasional Smoker,High,High,Suburban,214.22
+32,Female,Student,Medium,PhD,Non-smoker,High,Low,Urban,178.32
+44,Male,Student,Medium,High School,Non-smoker,Medium,Medium,Suburban,224.19
+68,Non-binary,Retired,High,High School,Non-smoker,Low,Medium,Rural,111.98
+51,Female,Professional,Low,Bachelor's,Occasional Smoker,Low,High,Rural,44.95
+69,Female,Retired,High,High School,Occasional Smoker,Medium,High,Suburban,103.37
+55,Male,Professional,High,High School,Regular Smoker,Medium,High,Urban,304.09
+50,Female,Student,Low,High School,Non-smoker,High,Low,Rural,239.28
+41,Female,Unemployed,Medium,Bachelor's,Non-smoker,Medium,High,Suburban,40.16
+32,Male,Professional,High,Bachelor's,Non-smoker,Medium,Low,Urban,199.37
+47,Male,Student,Low,Bachelor's,Occasional Smoker,Low,Medium,Urban,245.15
+59,Female,Retired,Medium,PhD,Non-smoker,Low,Medium,Rural,104.85
+68,Male,Professional,High,Bachelor's,Non-smoker,Medium,Low,Rural,221.64
+34,Female,Unemployed,Medium,High School,Non-smoker,Low,High,Urban,45.52
+22,Male,Retired,Low,High School,Non-smoker,Medium,Low,Suburban,149.07
+46,Male,Retired,Medium,Bachelor's,Non-smoker,High,Medium,Rural,268.06
+21,Female,Student,Low,Bachelor's,Non-smoker,Medium,Medium,Urban,120.98
+27,Male,Professional,Medium,Bachelor's,Non-smoker,Low,Medium,Urban,126.45
+34,Female,Retired,Low,Bachelor's,Non-smoker,Low,Low,Suburban,100.72
+27,Male,Unemployed,Medium,High School,Occasional Smoker,Medium,Medium,Urban,183.18
+34,Male,Professional,Medium,High School,Occasional Smoker,Medium,High,Urban,122.8
+37,Female,Unemployed,Medium,High School,Non-smoker,Medium,Low,Suburban,72.63
+41,Female,Retired,Medium,High School,Occasional Smoker,Medium,Medium,Rural,104.93
+22,Female,Unemployed,Medium,High School,Non-smoker,Medium,Low,Suburban,82.94
+51,Female,Student,Medium,Bachelor's,Non-smoker,Medium,Medium,Suburban,144.24
+23,Female,Unemployed,Low,Bachelor's,Regular Smoker,Medium,High,Urban,174.03
+70,Male,Professional,Medium,High School,Occasional Smoker,High,Medium,Urban,303.56
+19,Male,Unemployed,Low,High School,Occasional Smoker,Medium,Medium,Suburban,164.07
+30,Female,Unemployed,High,High School,Non-smoker,Low,Medium,Urban,94.39
+60,Female,Student,Low,High School,Non-smoker,Medium,Medium,Rural,149.19
+60,Female,Unemployed,Medium,Bachelor's,Regular Smoker,Medium,Low,Urban,244.94
+65,Male,Unemployed,Medium,Bachelor's,Non-smoker,High,Low,Urban,305.91
+28,Male,Retired,Medium,Bachelor's,Non-smoker,Medium,Medium,Urban,165.2
+68,Female,Retired,Low,Bachelor's,Occasional Smoker,High,Medium,Rural,231.61
+64,Female,Professional,Medium,Bachelor's,Occasional Smoker,High,Medium,Urban,208.22
+40,Female,Retired,Medium,High School,Regular Smoker,Medium,Low,Urban,241.64
+33,Female,Retired,Medium,High School,Non-smoker,Medium,Low,Urban,75.61
+48,Female,Retired,Low,High School,Regular Smoker,Medium,Low,Rural,237.74
+28,Male,Retired,Medium,PhD,Non-smoker,High,High,Urban,210.46
+33,Male,Student,Medium,High School,Non-smoker,Medium,Medium,Urban,237.8
+25,Male,Retired,Medium,High School,Occasional Smoker,Low,Low,Urban,168.67
+21,Male,Student,Medium,Master's,Non-smoker,Medium,Low,Suburban,199.55
+57,Female,Student,Medium,Master's,Non-smoker,Low,High,Urban,102.67
+21,Male,Retired,Low,Bachelor's,Occasional Smoker,Medium,Low,Urban,141.21
+42,Female,Unemployed,Low,High School,Non-smoker,Low,High,Urban,69.37
+20,Male,Student,Low,High School,Non-smoker,Medium,Low,Suburban,181.06
+49,Male,Unemployed,Low,High School,Non-smoker,High,High,Suburban,232.39
+20,Male,Unemployed,Medium,High School,Non-smoker,Low,High,Suburban,82.77
+44,Male,Retired,Medium,High School,Non-smoker,Low,Medium,Rural,176.03
+46,Female,Professional,Low,High School,Occasional Smoker,Low,Low,Rural,105.45
+49,Male,Retired,High,Master's,Occasional Smoker,Medium,Low,Urban,199.69
+67,Female,Professional,Low,High School,Non-smoker,Medium,Medium,Suburban,136.74
+68,Male,Professional,Medium,Bachelor's,Occasional Smoker,Low,Medium,Suburban,220.8
+36,Male,Retired,Medium,Bachelor's,Non-smoker,Low,Low,Rural,172.23
+38,Male,Retired,Low,High School,Non-smoker,Medium,Low,Urban,167.68
+22,Female,Professional,Low,Bachelor's,Occasional Smoker,Low,Medium,Suburban,74.75
+35,Female,Retired,Medium,High School,Non-smoker,Medium,Medium,Urban,97.39
+45,Male,Professional,Low,High School,Regular Smoker,Low,Low,Rural,299.67
+59,Male,Unemployed,High,Bachelor's,Non-smoker,Medium,Low,Urban,164.91
+39,Female,Retired,Medium,High School,Occasional Smoker,Low,High,Urban,36.11
+38,Male,Unemployed,High,PhD,Non-smoker,Medium,Medium,Urban,174.97
+23,Male,Student,Low,High School,Non-smoker,Low,Medium,Urban,190.63
+18,Female,Unemployed,Medium,Bachelor's,Non-smoker,Medium,Medium,Suburban,69.83
+22,Female,Unemployed,Medium,High School,Occasional Smoker,High,Low,Urban,156.54
+58,Male,Professional,Medium,High School,Non-smoker,High,Low,Urban,278.42
+29,Female,Unemployed,Low,High School,Regular Smoker,Medium,Low,Rural,215.34
+43,Female,Retired,Medium,Bachelor's,Non-smoker,Medium,High,Urban,52
+63,Male,Professional,Medium,Master's,Non-smoker,High,Medium,Suburban,316.43
+51,Female,Student,Medium,Master's,Non-smoker,Medium,Low,Urban,134.39
+66,Female,Retired,Low,High School,Occasional Smoker,Low,High,Urban,100.96
+31,Male,Student,High,Bachelor's,Regular Smoker,High,Low,Rural,428.41
+43,Male,Unemployed,Low,Bachelor's,Non-smoker,Medium,High,Suburban,110.73
+62,Male,Retired,High,Bachelor's,Occasional Smoker,Low,High,Urban,147.63
+44,Female,Retired,High,High School,Non-smoker,Low,Low,Rural,113.23
+26,Male,Student,High,Bachelor's,Occasional Smoker,Low,Low,Rural,229.6
+43,Female,Retired,Medium,Master's,Regular Smoker,Medium,Medium,Rural,253.29
+64,Female,Retired,Medium,High School,Non-smoker,Low,Medium,Urban,133.18
+39,Male,Retired,High,Master's,Non-smoker,Low,Medium,Urban,203.27
+64,Female,Unemployed,Low,Bachelor's,Regular Smoker,Low,High,Suburban,214.16
+47,Male,Student,Medium,High School,Regular Smoker,Medium,Medium,Suburban,311.49
+60,Female,Retired,Medium,High School,Non-smoker,Medium,Low,Urban,122.26
+65,Female,Professional,Medium,High School,Non-smoker,Medium,Low,Suburban,134.68
+34,Male,Professional,Low,Bachelor's,Non-smoker,Low,Medium,Urban,126.33
+43,Male,Professional,Medium,Master's,Non-smoker,Low,Low,Urban,154.55
+53,Male,Professional,High,High School,Occasional Smoker,High,Medium,Urban,271.5
+18,Male,Unemployed,Low,Master's,Occasional Smoker,Medium,Low,Suburban,152.57
+25,Male,Retired,High,Master's,Non-smoker,Medium,Low,Urban,202.49
+66,Male,Student,Low,High School,Non-smoker,Low,Low,Rural,288.72
+52,Non-binary,Retired,Low,Master's,Non-smoker,Medium,Medium,Suburban,104.63
+69,Male,Unemployed,Low,PhD,Non-smoker,Medium,Low,Suburban,152.32
+32,Male,Professional,Low,Bachelor's,Non-smoker,Low,Medium,Rural,178.25
